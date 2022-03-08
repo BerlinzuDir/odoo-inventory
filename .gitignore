@@ -1,1 +1,11 @@
 .env
+
+# editor
+.idea
+
+# test cache
+.pytest_cache
+
+# compiled files
+/**/__pycache__/
+*.py[cod]
